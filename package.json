@@ -1,0 +1,17 @@
+{
+  "name": "oauth-provider-for-decapcms",
+  "version": "1.0.0",
+  "description": "oAuth-provider-for-decapcms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "randomstring": "^1.3.0",
+    "simple-oauth2": "^5.1.0"
+  }
+}
